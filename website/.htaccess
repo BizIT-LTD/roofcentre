@@ -1,0 +1,67 @@
+# Roof Centre static site
+# NOTE: public_html also contains the separate Building Repair Centre and
+# Pergola Building Centre sites in subfolders. Every rule below is limited to
+# the roofcentre.com.au host so those sites are not affected.
+
+Options -Indexes
+DirectoryIndex index.html index.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Force HTTPS and www (the original WordPress site URL was https://www.roofcentre.com.au)
+RewriteCond %{HTTP_HOST} ^(www\.)?roofcentre\.com\.au$ [NC]
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^roofcentre\.com\.au$ [NC]
+RewriteRule ^ https://www.roofcentre.com.au%{REQUEST_URI} [R=301,L]
+
+# Old WordPress pages that are not part of the new site
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^(home|blog|sample-page|hello-world|create-your-website-with-blocks)/?$ / [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^privacy-policy/?$ /privacy/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^(category|tag|author|feed|comments/feed)(/.*)?$ / [R=301,L]
+# Correctly spelled alias for the original (misspelled) roof replacement URL
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^roof-replacement/?$ /roof-replacment/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^request-a-quote/?$ /contact/#quote [R=301,NE,L]
+# Old WordPress sitemaps (Yoast) now live at /sitemap.xml
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^(sitemap_index|page-sitemap|post-sitemap|[a-z_-]+-sitemap[0-9]*)\.xml$ /sitemap.xml [R=301,L]
+# WordPress admin, login and uploads no longer exist
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteRule ^(wp-admin|wp-login\.php|xmlrpc\.php|wp-content|wp-includes|wp-json)(/.*)?$ - [G,L]
+
+# Add trailing slash to page folders (e.g. /about -> /about/)
+RewriteCond %{HTTP_HOST} ^www\.roofcentre\.com\.au$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}/index.html -f
+RewriteRule ^(.*[^/])$ /$1/ [R=301,L]
+</IfModule>
+
+ErrorDocument 404 /404.html
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  <FilesMatch "\.(webp|png|jpg|ico|woff2)$">
+    Header set Cache-Control "public, max-age=31536000"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.(html|xml|txt)$">
+    Header set Cache-Control "public, max-age=600"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/xml application/xml image/svg+xml application/json application/manifest+json
+</IfModule>
+
+AddType image/webp .webp
+AddType application/manifest+json .webmanifest

@@ -1,0 +1,43 @@
+# Original backup, extracted files and archives: never commit
+/reference/
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.7z
+*.rar
+
+# Database dumps
+*.sql
+*.sql.*
+*.sqlite
+*.db
+
+# Credentials and private settings (kept on the server, outside public_html)
+roofcentre-enquiry-config.php
+wp-config.php
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+auth.json
+.htpasswd
+.ftpconfig
+sftp-config.json
+.vscode/sftp.json
+
+# Logs and local tooling
+*.log
+error_log
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Deployment package (rebuild with python tools/package.py)
+/dist/

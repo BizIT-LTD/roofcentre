@@ -1,0 +1,2232 @@
+{
+ "colorbond-reroof-progress": {
+  "alt": "New white Colorbond roof sheets being installed over fresh battens",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "colorbond-reroof-progress-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "colorbond-reroof-progress-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "colorbond-reroof-progress-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "colorbond-reroof-progress-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7771.jpg"
+ },
+ "colorbond-ridge-solar": {
+  "alt": "Finished Colorbond roof with ridge capping and solar panels",
+  "category": "colorbond",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "colorbond-ridge-solar-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "colorbond-ridge-solar-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "colorbond-ridge-solar-1800.webp"
+   },
+   {
+    "w": 2048,
+    "h": 1536,
+    "file": "colorbond-ridge-solar-2048.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7746.jpg"
+ },
+ "metal-roof-escarpment": {
+  "alt": "Completed metal roof with the escarpment in the background",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "metal-roof-escarpment-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "metal-roof-escarpment-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "metal-roof-escarpment-1080.webp"
+   }
+  ],
+  "source": "2021/05/26.png"
+ },
+ "chimney-tile-roof": {
+  "alt": "Terracotta tile roof and chimney flashing after repairs",
+  "category": "repair",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "chimney-tile-roof-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "chimney-tile-roof-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "chimney-tile-roof-1800.webp"
+   },
+   {
+    "w": 2048,
+    "h": 1536,
+    "file": "chimney-tile-roof-2048.webp"
+   }
+  ],
+  "source": "2021/05/roof-2.jpg"
+ },
+ "tarp-make-safe": {
+  "alt": "Temporary protection installed inside a roof cavity",
+  "category": "emergency",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "tarp-make-safe-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "tarp-make-safe-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "tarp-make-safe-1800.webp"
+   },
+   {
+    "w": 2048,
+    "h": 1536,
+    "file": "tarp-make-safe-2048.webp"
+   }
+  ],
+  "source": "2021/05/roof.jpg"
+ },
+ "cottage-reroof-complete": {
+  "alt": "Weatherboard cottage with its new white metal roof",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-reroof-complete-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-reroof-complete-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-reroof-complete-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-reroof-complete-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7902.jpg"
+ },
+ "cottage-reroof-gutter": {
+  "alt": "Roofer fitting guttering on a weatherboard cottage re-roof",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-reroof-gutter-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-reroof-gutter-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-reroof-gutter-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-reroof-gutter-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7901.jpg"
+ },
+ "cottage-battens": {
+  "alt": "Metal roof sheet laid over new battens on a cottage re-roof",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-battens-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-battens-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-battens-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-battens-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7704.jpg"
+ },
+ "cottage-valley": {
+  "alt": "New metal roof valley being formed on a cottage re-roof",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-valley-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-valley-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-valley-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-valley-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7709.jpg"
+ },
+ "cottage-strip": {
+  "alt": "Old tiles stripped back to the timber frame before re-roofing",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-strip-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-strip-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-strip-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-strip-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7769.jpg"
+ },
+ "cottage-before": {
+  "alt": "Weatherboard cottage before the old roof was replaced",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-before-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-before-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-before-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-before-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7675.jpg"
+ },
+ "cottage-sheets": {
+  "alt": "New roof sheets going on beside the old tiled section",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-sheets-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-sheets-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-sheets-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-sheets-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7768.jpg"
+ },
+ "cottage-tarp": {
+  "alt": "Partly re-roofed house with tarps protecting the open section",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-tarp-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-tarp-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-tarp-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-tarp-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7750.jpg"
+ },
+ "cottage-rear": {
+  "alt": "Rear of a weatherboard cottage with its new metal roof",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-rear-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-rear-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-rear-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-rear-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7780.jpg"
+ },
+ "cottage-valley-2": {
+  "alt": "Roof frame opened up while new metal sheets are installed",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 800,
+    "h": 600,
+    "file": "cottage-valley-2-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 900,
+    "file": "cottage-valley-2-1200.webp"
+   },
+   {
+    "w": 1800,
+    "h": 1350,
+    "file": "cottage-valley-2-1800.webp"
+   },
+   {
+    "w": 2400,
+    "h": 1800,
+    "file": "cottage-valley-2-2400.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7770.jpg"
+ },
+ "cottage-ridge": {
+  "alt": "Ridge and hip capping on a new white metal roof",
+  "category": "replacement",
+  "ratio": 1.3333333333333333,
+  "files": [
+   {
+    "w": 480,
+    "h": 640,
+    "file": "cottage-ridge-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "file": "cottage-ridge-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "file": "cottage-ridge-1200.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7778.jpg"
+ },
+ "cottage-sheet-edge": {
+  "alt": "Edge of a new corrugated roof sheet over the old frame",
+  "category": "replacement",
+  "ratio": 1.3333333333333333,
+  "files": [
+   {
+    "w": 480,
+    "h": 640,
+    "file": "cottage-sheet-edge-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1067,
+    "file": "cottage-sheet-edge-800.webp"
+   },
+   {
+    "w": 1200,
+    "h": 1600,
+    "file": "cottage-sheet-edge-1200.webp"
+   }
+  ],
+  "source": "2024/03/IMG_7692.jpg"
+ },
+ "cn-1": {
+  "alt": "Chipping Norton roof replacement: new ridge capping",
+  "category": "replacement",
+  "ratio": 1.3196581196581196,
+  "files": [
+   {
+    "w": 480,
+    "h": 633,
+    "file": "cn-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1056,
+    "file": "cn-1-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 1544,
+    "file": "cn-1-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7739.jpg"
+ },
+ "cn-2": {
+  "alt": "Chipping Norton roof replacement: finished Colorbond roof",
+  "category": "replacement",
+  "ratio": 0.747008547008547,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "cn-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "cn-2-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 874,
+    "file": "cn-2-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7740.jpg"
+ },
+ "cn-3": {
+  "alt": "Chipping Norton roof replacement: roof valley detail",
+  "category": "replacement",
+  "ratio": 1.0897435897435896,
+  "files": [
+   {
+    "w": 480,
+    "h": 523,
+    "file": "cn-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 872,
+    "file": "cn-3-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 1275,
+    "file": "cn-3-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7741.jpg"
+ },
+ "cn-4": {
+  "alt": "Chipping Norton roof replacement: ridge line and vent",
+  "category": "replacement",
+  "ratio": 0.7478632478632479,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "cn-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "cn-4-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 875,
+    "file": "cn-4-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7742.jpg"
+ },
+ "cn-5": {
+  "alt": "Chipping Norton roof replacement: hip and valley",
+  "category": "replacement",
+  "ratio": 0.7478632478632479,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "cn-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "cn-5-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 875,
+    "file": "cn-5-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7743.jpg"
+ },
+ "cn-6": {
+  "alt": "Ridge capping on a newly re-roofed home",
+  "category": "replacement",
+  "ratio": 1.3379191745485812,
+  "files": [
+   {
+    "w": 480,
+    "h": 642,
+    "file": "cn-6-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 1070,
+    "file": "cn-6-800.webp"
+   },
+   {
+    "w": 1163,
+    "h": 1556,
+    "file": "cn-6-1163.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7744.jpg"
+ },
+ "cn-7": {
+  "alt": "Corrugated metal roof with new ridge vent",
+  "category": "replacement",
+  "ratio": 0.747008547008547,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "cn-7-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "cn-7-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 874,
+    "file": "cn-7-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7745.jpg"
+ },
+ "botany-1": {
+  "alt": "Botany roof repair: red metal roof under scaffolding",
+  "category": "repair",
+  "ratio": 0.747008547008547,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-1-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 874,
+    "file": "botany-1-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7761.jpg"
+ },
+ "botany-2": {
+  "alt": "Botany roof repair: new red metal roof sheets",
+  "category": "repair",
+  "ratio": 0.747008547008547,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-2-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 874,
+    "file": "botany-2-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7762.jpg"
+ },
+ "botany-3": {
+  "alt": "Botany roof repair: valley and flashing detail",
+  "category": "repair",
+  "ratio": 0.7478632478632479,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-3-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 875,
+    "file": "botany-3-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7763.jpg"
+ },
+ "botany-4": {
+  "alt": "Botany roof repair: completed roof section",
+  "category": "repair",
+  "ratio": 0.747008547008547,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-4-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 874,
+    "file": "botany-4-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7764.jpg"
+ },
+ "botany-5": {
+  "alt": "Botany roof repair: old roof stripped to the battens",
+  "category": "repair",
+  "ratio": 0.7478632478632479,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-5-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 875,
+    "file": "botany-5-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7765.jpg"
+ },
+ "botany-6": {
+  "alt": "Botany roof repair: weathered tiles before work",
+  "category": "repair",
+  "ratio": 0.747008547008547,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-6-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-6-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 874,
+    "file": "botany-6-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7766.jpg"
+ },
+ "botany-7": {
+  "alt": "Botany roof repair: roof frame exposed during works",
+  "category": "repair",
+  "ratio": 0.7478632478632479,
+  "files": [
+   {
+    "w": 480,
+    "h": 359,
+    "file": "botany-7-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 598,
+    "file": "botany-7-800.webp"
+   },
+   {
+    "w": 1170,
+    "h": 875,
+    "file": "botany-7-1170.webp"
+   }
+  ],
+  "source": "2024/02/IMG_7767.jpg"
+ },
+ "tile-patch": {
+  "alt": "Cracked roof tile with a temporary patch",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-patch-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-patch-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-patch-1080.webp"
+   }
+  ],
+  "source": "2021/05/3.png"
+ },
+ "broken-valley": {
+  "alt": "Broken tiles and a deteriorated valley before repair",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "broken-valley-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "broken-valley-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "broken-valley-1080.webp"
+   }
+  ],
+  "source": "2021/05/35.png"
+ },
+ "repair-red-tile": {
+  "alt": "Roofer working on a red tile roof",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "repair-red-tile-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "repair-red-tile-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "repair-red-tile-1080.webp"
+   }
+  ],
+  "source": "2021/05/41.png"
+ },
+ "repair-tile-crew": {
+  "alt": "Roofer working on a two-storey tile roof",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "repair-tile-crew-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "repair-tile-crew-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "repair-tile-crew-1080.webp"
+   }
+  ],
+  "source": "2021/05/58.png"
+ },
+ "repair-tile-street": {
+  "alt": "Roofer on a terracotta tile roof",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "repair-tile-street-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "repair-tile-street-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "repair-tile-street-1080.webp"
+   }
+  ],
+  "source": "2021/05/47.png"
+ },
+ "tile-valley-repair": {
+  "alt": "Tile roof valley opened up for repair",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-valley-repair-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-valley-repair-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-valley-repair-1080.webp"
+   }
+  ],
+  "source": "2021/06/p4.png"
+ },
+ "tile-roof-valley": {
+  "alt": "Concrete tile roof valley after repair",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-roof-valley-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-roof-valley-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-roof-valley-1080.webp"
+   }
+  ],
+  "source": "2021/06/p3.png"
+ },
+ "skylight-flashing": {
+  "alt": "Skylight shaft and flashing in a tile roof",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "skylight-flashing-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "skylight-flashing-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "skylight-flashing-1080.webp"
+   }
+  ],
+  "source": "2021/06/p5.png"
+ },
+ "restored-terracotta": {
+  "alt": "Restored terracotta tile roof",
+  "category": "restoration",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "restored-terracotta-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "restored-terracotta-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "restored-terracotta-1080.webp"
+   }
+  ],
+  "source": "2021/06/roofing.png"
+ },
+ "restored-dark-tile": {
+  "alt": "Home with a restored dark tile roof",
+  "category": "restoration",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "restored-dark-tile-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "restored-dark-tile-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "restored-dark-tile-1080.webp"
+   }
+  ],
+  "source": "2021/06/roofing1.png"
+ },
+ "tile-to-metal": {
+  "alt": "Tile roof being converted to metal roofing",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-to-metal-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-to-metal-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-to-metal-1080.webp"
+   }
+  ],
+  "source": "2021/05/49.png"
+ },
+ "tile-to-metal-2": {
+  "alt": "New metal roof sheets beside old roof tiles",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-to-metal-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-to-metal-2-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-to-metal-2-1080.webp"
+   }
+  ],
+  "source": "2021/05/51.png"
+ },
+ "tile-to-metal-3": {
+  "alt": "Metal sheeting going on alongside a tile roof",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-to-metal-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-to-metal-3-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-to-metal-3-1080.webp"
+   }
+  ],
+  "source": "2021/05/55.png"
+ },
+ "tile-to-metal-4": {
+  "alt": "Join between new metal roofing and old tiles",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-to-metal-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-to-metal-4-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-to-metal-4-1080.webp"
+   }
+  ],
+  "source": "2021/05/56.png"
+ },
+ "tile-strip": {
+  "alt": "Roofer stripping old tiles from a roof",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "tile-strip-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "tile-strip-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "tile-strip-1080.webp"
+   }
+  ],
+  "source": "2021/05/50.png"
+ },
+ "frame-exposed": {
+  "alt": "Roof frame exposed after the old roof was removed",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "frame-exposed-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "frame-exposed-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "frame-exposed-1080.webp"
+   }
+  ],
+  "source": "2021/06/RR5-min.png"
+ },
+ "frame-exposed-2": {
+  "alt": "Roof stripped back to the rafters",
+  "category": "replacement",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "frame-exposed-2-480.webp"
+   },
+   {
+    "w": 640,
+    "h": 480,
+    "file": "frame-exposed-2-640.webp"
+   }
+  ],
+  "source": "2021/05/c6c1cacb-0398-4ff8-bb88-0d02fbe2ab32.jpg"
+ },
+ "frame-blue": {
+  "alt": "Roof frame with new sarking ready for sheeting",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "frame-blue-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "frame-blue-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "frame-blue-1080.webp"
+   }
+  ],
+  "source": "2021/06/RR3-min.png"
+ },
+ "storm-damage": {
+  "alt": "Storm-damaged corrugated roof before replacement",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "storm-damage-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "storm-damage-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "storm-damage-1080.webp"
+   }
+  ],
+  "source": "2021/06/RR-min.png"
+ },
+ "old-tile-damage": {
+  "alt": "Damaged tile roof before replacement",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "old-tile-damage-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "old-tile-damage-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "old-tile-damage-1080.webp"
+   }
+  ],
+  "source": "2021/06/RR2-min.png"
+ },
+ "crew-commercial": {
+  "alt": "Roofing crew working on a commercial roof",
+  "category": "replacement",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "crew-commercial-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "crew-commercial-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "crew-commercial-1080.webp"
+   }
+  ],
+  "source": "2021/06/RR7.png"
+ },
+ "metal-roof-white": {
+  "alt": "New metal roof over a rear extension",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "metal-roof-white-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "metal-roof-white-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "metal-roof-white-1080.webp"
+   }
+  ],
+  "source": "2021/06/RR6.png"
+ },
+ "polycarbonate": {
+  "alt": "Clear roof sheeting beside a tile roof",
+  "category": "repair",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "polycarbonate-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "polycarbonate-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "polycarbonate-1080.webp"
+   }
+  ],
+  "source": "2021/05/46.png"
+ },
+ "cb-1": {
+  "alt": "Colorbond roof sheets on a residential re-roof",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-1-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-1-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr.png"
+ },
+ "cb-2": {
+  "alt": "Colorbond roof sheets ready for fixing",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-2-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-2-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr1.png"
+ },
+ "cb-3": {
+  "alt": "New home with a dark Colorbond roof",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-3-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-3-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr2.png"
+ },
+ "cb-4": {
+  "alt": "Long run of new Colorbond roofing",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-4-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-4-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr3.png"
+ },
+ "cb-5": {
+  "alt": "Colorbond roofing on a new build",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-5-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-5-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr4.png"
+ },
+ "cb-6": {
+  "alt": "Chimney flashing on a Colorbond roof",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-6-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-6-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-6-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr5.png"
+ },
+ "cb-7": {
+  "alt": "Colorbond sheet being fixed into place",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-7-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-7-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-7-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr6-min.png"
+ },
+ "cb-8": {
+  "alt": "Colorbond roof edge and gutter",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-8-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-8-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-8-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr7.png"
+ },
+ "cb-9": {
+  "alt": "Colorbond roof overlooking a pool",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-9-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-9-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-9-1080.webp"
+   }
+  ],
+  "source": "2021/06/cr9-min.png"
+ },
+ "cb-10": {
+  "alt": "Brick home with a new dark Colorbond roof",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-10-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-10-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-10-1080.webp"
+   }
+  ],
+  "source": "2021/05/17.png"
+ },
+ "cb-11": {
+  "alt": "Finished Colorbond roof on a brick home",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-11-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-11-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-11-1080.webp"
+   }
+  ],
+  "source": "2021/05/23.png"
+ },
+ "cb-12": {
+  "alt": "Corrugated Colorbond roof sheets",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-12-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-12-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-12-1080.webp"
+   }
+  ],
+  "source": "2021/05/21.png"
+ },
+ "cb-13": {
+  "alt": "Colorbond roof surface",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-13-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-13-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-13-1080.webp"
+   }
+  ],
+  "source": "2021/05/25.png"
+ },
+ "cb-14": {
+  "alt": "Colorbond roof on a modern home",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-14-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-14-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-14-1080.webp"
+   }
+  ],
+  "source": "2021/05/27.png"
+ },
+ "cb-15": {
+  "alt": "Street view of a home with a Colorbond roof",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-15-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-15-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-15-1080.webp"
+   }
+  ],
+  "source": "2021/05/31.png"
+ },
+ "cb-16": {
+  "alt": "Row of homes with new metal roofs",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-16-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-16-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-16-1080.webp"
+   }
+  ],
+  "source": "2021/05/19.png"
+ },
+ "cb-interior-red": {
+  "alt": "Red Colorbond hip roof inside a commercial building",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-interior-red-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-interior-red-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-interior-red-1080.webp"
+   }
+  ],
+  "source": "2021/05/18.png"
+ },
+ "cb-interior-green": {
+  "alt": "Colorbond hip roof inside a commercial building",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-interior-green-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-interior-green-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-interior-green-1080.webp"
+   }
+  ],
+  "source": "2021/05/28.png"
+ },
+ "cb-interior-dark": {
+  "alt": "Dark Colorbond hip roof inside a commercial building",
+  "category": "colorbond",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "cb-interior-dark-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "cb-interior-dark-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "cb-interior-dark-1080.webp"
+   }
+  ],
+  "source": "2021/05/29.png"
+ },
+ "gutter-1": {
+  "alt": "Tradesman installing new guttering",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gutter-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "gutter-1-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "gutter-1-1080.webp"
+   }
+  ],
+  "source": "2021/06/gdr.png"
+ },
+ "gutter-2": {
+  "alt": "New gutter and fascia on a home",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gutter-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "gutter-2-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "gutter-2-1080.webp"
+   }
+  ],
+  "source": "2021/06/gdr2.png"
+ },
+ "gutter-3": {
+  "alt": "Replaced gutters and downpipe",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gutter-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "gutter-3-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "gutter-3-1080.webp"
+   }
+  ],
+  "source": "2021/06/gdr3-min.png"
+ },
+ "gutter-4": {
+  "alt": "Home with new gutters and downpipes",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gutter-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "gutter-4-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "gutter-4-1080.webp"
+   }
+  ],
+  "source": "2021/06/gdr4.png"
+ },
+ "gutter-5": {
+  "alt": "New downpipe and gutter on a brick home",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gutter-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "gutter-5-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "gutter-5-1080.webp"
+   }
+  ],
+  "source": "2021/06/gdr5.png"
+ },
+ "gutter-ladder": {
+  "alt": "Roofer on a ladder working on a gutter",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "gutter-ladder-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "gutter-ladder-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "gutter-ladder-1080.webp"
+   }
+  ],
+  "source": "2021/05/40.png"
+ },
+ "downpipe": {
+  "alt": "Old gutter and downpipe before replacement",
+  "category": "gutters",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "downpipe-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "downpipe-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "downpipe-1080.webp"
+   }
+  ],
+  "source": "2021/05/44.png"
+ },
+ "make-safe-1": {
+  "alt": "Tarp secured over a damaged tile roof",
+  "category": "emergency",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "make-safe-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "make-safe-1-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "make-safe-1-1080.webp"
+   }
+  ],
+  "source": "2021/05/6.png"
+ },
+ "make-safe-2": {
+  "alt": "Tarp weighed down with sandbags on a roof",
+  "category": "emergency",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "make-safe-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "make-safe-2-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "make-safe-2-1080.webp"
+   }
+  ],
+  "source": "2021/05/11.png"
+ },
+ "make-safe-3": {
+  "alt": "Plastic sheeting protecting a damaged roof section",
+  "category": "emergency",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "make-safe-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "make-safe-3-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "make-safe-3-1080.webp"
+   }
+  ],
+  "source": "2021/05/4.png"
+ },
+ "make-safe-4": {
+  "alt": "Protective sheeting secured over a tiled roof",
+  "category": "emergency",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "make-safe-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "make-safe-4-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "make-safe-4-1080.webp"
+   }
+  ],
+  "source": "2021/05/2.png"
+ },
+ "make-safe-5": {
+  "alt": "Tarp over a roof secured with sandbags",
+  "category": "emergency",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "make-safe-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "make-safe-5-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "make-safe-5-1080.webp"
+   }
+  ],
+  "source": "2021/05/9.png"
+ },
+ "make-safe-6": {
+  "alt": "Temporary roof cover held down with weights",
+  "category": "emergency",
+  "ratio": 0.75,
+  "files": [
+   {
+    "w": 480,
+    "h": 360,
+    "file": "make-safe-6-480.webp"
+   },
+   {
+    "w": 640,
+    "h": 480,
+    "file": "make-safe-6-640.webp"
+   }
+  ],
+  "source": "2021/05/0b9b6efc-a915-4e79-97e7-72df0c9f1cc8.jpg"
+ },
+ "flashing-1": {
+  "alt": "New valley flashing between two roof sections",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-1-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-1-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-1-1080.webp"
+   }
+  ],
+  "source": "2021/06/cvf.png"
+ },
+ "flashing-2": {
+  "alt": "Custom valley flashing in a tile roof",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-2-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-2-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-2-1080.webp"
+   }
+  ],
+  "source": "2021/06/cvf1-min.png"
+ },
+ "flashing-3": {
+  "alt": "Chimney flashing on a terracotta tile roof",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-3-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-3-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-3-1080.webp"
+   }
+  ],
+  "source": "2021/06/cvf2-min.png"
+ },
+ "flashing-4": {
+  "alt": "Custom folded metal flashing",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-4-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-4-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-4-1080.webp"
+   }
+  ],
+  "source": "2021/05/38.png"
+ },
+ "flashing-5": {
+  "alt": "Roofer installing flashing against a brick wall",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-5-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-5-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-5-1080.webp"
+   }
+  ],
+  "source": "2021/05/59.png"
+ },
+ "flashing-6": {
+  "alt": "Roofer sealing flashing at a chimney",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-6-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-6-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-6-1080.webp"
+   }
+  ],
+  "source": "2021/05/60.png"
+ },
+ "flashing-7": {
+  "alt": "New valley iron being installed in a tile roof",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-7-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-7-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-7-1080.webp"
+   }
+  ],
+  "source": "2021/05/62.png"
+ },
+ "flashing-8": {
+  "alt": "Chimney and tile roof with new flashing",
+  "category": "flashing",
+  "ratio": 1.0,
+  "files": [
+   {
+    "w": 480,
+    "h": 480,
+    "file": "flashing-8-480.webp"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "file": "flashing-8-800.webp"
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "file": "flashing-8-1080.webp"
+   }
+  ],
+  "source": "2021/05/39.png"
+ },
+ "_logo": {
+  "w": 720,
+  "h": 235
+ },
+ "_logo-white": {
+  "w": 720,
+  "h": 235
+ }
+}
