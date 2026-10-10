@@ -45,7 +45,8 @@ See `docs/MIGRATION-NOTES.md` for the URL map and redirects.
 
 ## Deployment
 
-See `docs/DEPLOY-HOSTINGER.md`. Private enquiry settings live on the server outside `public_html`
+See `docs/DEPLOY-HOSTINGER.md`. Hostinger's Git deployment uses the `deploy` branch, which holds
+only the contents of `website/` (`git subtree split --prefix=website -b deploy`). Never deploy `main`. Private enquiry settings live on the server outside `public_html`
 (`docs/ENQUIRY-SETUP.md`) and are never committed.
 
 ## Screenshots

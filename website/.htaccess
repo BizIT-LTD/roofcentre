@@ -1,13 +1,16 @@
 # Roof Centre static site
-# NOTE: public_html also contains the separate Building Repair Centre and
-# Pergola Building Centre sites in subfolders. Every rule below is limited to
-# the roofcentre.com.au host so those sites are not affected.
+# This file must sit directly in public_html, next to index.html.
+# Redirect rules are limited to the roofcentre.com.au host, so they stay
+# inactive on Hostinger's temporary domain.
 
 Options -Indexes
 DirectoryIndex index.html index.php
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
+
+# Git deployment leaves a .git folder in public_html: never serve it
+RewriteRule (^|/)\.git(/|$) - [F,L]
 
 # Force HTTPS and www (the original WordPress site URL was https://www.roofcentre.com.au)
 RewriteCond %{HTTP_HOST} ^(www\.)?roofcentre\.com\.au$ [NC]

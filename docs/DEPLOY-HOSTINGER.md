@@ -90,9 +90,49 @@ servers do **not** publish these records, so they are not in effect. Do not copy
    - `website/api/enquiry.php` reads it from two levels above `public_html/api/`, which is that folder.
    - Never put this file in `public_html` or in Git (it is listed in `.gitignore`).
 
-> Do **not** use hPanel's Git auto-deploy from this repository's root. It would copy `tools/` and
-> `docs/` into `public_html`. If Git deployment is wanted later, deploy a branch or build artefact
-> that contains only the contents of `website/`.
+### Git deployment (alternative to steps 1 and 4)
+
+`main` is the full source project. Hostinger must deploy the **`deploy`** branch, which contains
+only the contents of `website/` at its root (`index.html`, `.htaccess`, `assets/`, `api/` …).
+Deploying `main` puts the site in `public_html/website/` and exposes `tools/`, `docs/` and
+`README.md`, while the domain root shows 403/404.
+
+Update `deploy` after committing changes to `main` (no force-push needed; the split is
+deterministic and fast-forwards):
+```
+git subtree split --prefix=website -b deploy
+git push origin main deploy
+```
+
+hPanel setup (Websites → Manage → Advanced → **Git**):
+
+- Repository: `https://github.com/BizIT-LTD/roofcentre.git`, branch **`deploy`**.
+- Install path / directory: **leave empty**, which means `public_html` itself. Do not enter `website`.
+- Hostinger only installs into an **empty** directory. Remove any earlier deployment first (see
+  "Fixing a deployment of `main`" below). Then **Deploy**.
+- A private repository needs Hostinger's SSH deploy key added to GitHub (repository → Settings →
+  Deploy keys, read-only) and the SSH URL `git@github.com:BizIT-LTD/roofcentre.git`.
+- Optional auto-deploy: copy hPanel's webhook URL into GitHub → Settings → Webhooks.
+
+The private `roofcentre-enquiry-config.php` stays one level **above** `public_html` (step 5). The
+Git deployment never touches it.
+
+#### Fixing a deployment of `main`
+
+If `main` was deployed, `public_html` contains the whole source project. Check in File Manager
+(with hidden files shown) that it holds only these items, then remove them:
+
+| Item | What it is |
+|---|---|
+| `website/` | the real site, one level too deep |
+| `tools/`, `docs/` | build scripts, documentation, screenshots (should not be public) |
+| `README.md`, `.gitignore`, `.gitattributes` | repository files |
+| `.git/` | Git metadata from the `main` deployment |
+
+If anything else is in `public_html` (for example `default.php` or a file you added), check it before
+removing it. Never remove `roofcentre-enquiry-config.php` from the folder above `public_html`. In
+hPanel → Git, delete the old repository entry (this only removes the link to GitHub). Then add the
+`deploy` branch as above.
 
 ---
 
